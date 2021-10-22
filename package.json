@@ -1,0 +1,17 @@
+{
+  "name": "go-phish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jordan Baczuk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "dotenv": "^10.0.0",
+    "form-data": "^4.0.0",
+    "random-words": "^1.1.1"
+  }
+}
